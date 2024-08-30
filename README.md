@@ -12,6 +12,14 @@ const { pagination } = require("paginate-data-array");
 import { pagination } from "paginate-data-array";
 ```
 
+# _Usage_
+```js
+pagination(data , page , limit)
+// data - an array
+// page - defines the page number to be displayed
+// limit - number of results in a single page
+```
+
 # _Parameters required_
 
 ### __1. data (required) ✅ -__ It is an array of any data type and can also contain the data extracted from a database that has to be shown to the user .
