@@ -21,7 +21,3 @@ exports.pagination = function(data=[] , page=1 , limit=10) {
 
     return arr;
 }
-
-// console.log(pagination(data , 3 , 5));
-
-// module.exports.pagination = pagination;
