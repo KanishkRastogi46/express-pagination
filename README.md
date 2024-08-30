@@ -1,6 +1,6 @@
 # _Installing the package_
 ```bash
-> npm install express-pagination
+> npm install paginate-data-array
 ```
 
 # _Exporting the package_
