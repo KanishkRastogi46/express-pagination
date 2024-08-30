@@ -1,5 +1,5 @@
 {
-  "name": "express-pagination",
+  "name": "paginate-data-array",
   "version": "1.0.0",
   "main": "index.js",
   "type": "commonjs",
@@ -10,12 +10,6 @@
   "author": "kanishk rastogi",
   "license": "ISC",
   "description": "A npm package for applying pagination feature",
-  "dependencies": {
-    "express": "^4.19.2"
-  },
-  "devDependencies": {
-    "dotenv": "^16.4.5"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KanishkRastogi46/express-pagination.git"
@@ -23,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/KanishkRastogi46/express-pagination/issues"
   },
-  "homepage": "https://github.com/KanishkRastogi46/express-pagination#readme"
+  "homepage": "https://github.com/KanishkRastogi46/express-pagination#readme",
+  "devDependencies": {}
 }

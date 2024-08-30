@@ -6,10 +6,10 @@
 # _Exporting the package_
 ```js
 // for exporting the package in commonjs
-const { pagination } = require("express-pagination");
+const { pagination } = require("paginate-data-array");
 
 // for exporting the package in ES6 module
-import { pagination } from "express-pagination";
+import { pagination } from "paginate-data-array";
 ```
 
 # _Parameters required_
