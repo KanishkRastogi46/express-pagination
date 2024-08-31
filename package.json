@@ -12,11 +12,11 @@
   "description": "A npm package for applying pagination feature",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KanishkRastogi46/express-pagination.git"
+    "url": "git+https://github.com/KanishkRastogi46/paginate-data-array.git"
   },
   "bugs": {
-    "url": "https://github.com/KanishkRastogi46/express-pagination/issues"
+    "url": "https://github.com/KanishkRastogi46/paginate-data-array/issues"
   },
-  "homepage": "https://github.com/KanishkRastogi46/express-pagination#readme",
+  "homepage": "https://github.com/KanishkRastogi46/paginate-data-array#readme",
   "devDependencies": {}
 }
