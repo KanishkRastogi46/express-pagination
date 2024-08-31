@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "kanishk rastogi",
-  "license": "ISC",
+  "license": "MIT",
   "description": "A npm package for applying pagination feature",
   "repository": {
     "type": "git",

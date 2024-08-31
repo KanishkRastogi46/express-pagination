@@ -1,7 +1,7 @@
 
 exports.pagination = function(data=[] , page=1 , limit=10) {
 
-    if (limit >= data.length-1 || limit <= 0) {
+    if (limit >= data.length || limit <= 0) {
         limit = 10;
         page = 1;
     }
