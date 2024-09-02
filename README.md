@@ -1,18 +1,15 @@
-# _Installing the package_
+# Installing the package
 ```bash
-> npm install paginate-data-array
+npm install paginate-data-array
 ```
 
-# _Exporting the package_
+# Importing the package
 ```js
-// for exporting the package in commonjs
+// for importing the package in commonjs
 const { pagination } = require("paginate-data-array");
-
-// for exporting the package in ES6 module
-import { pagination } from "paginate-data-array";
 ```
 
-# _Usage_
+# Usage
 ```js
 pagination(data , page , limit)
 // data - an array
@@ -20,7 +17,7 @@ pagination(data , page , limit)
 // limit - number of results in a single page
 ```
 
-# _Parameters required_
+# Parameters required
 
 ### __1. data (required) ✅ -__ It is an array of any data type and can also contain the data extracted from a database that has to be shown to the user .
 
@@ -30,10 +27,10 @@ pagination(data , page , limit)
 # 
 
 
-## _*Note :-_
+## *Note :-
 ### 1. node version should be >=20.11.1 ✅
 ### 2. npm version should be >=10.8.2 ✅
 
 #  
 
-## _Email :-_ kanishkrastogi46@gmail.com 🔥
+## Email :- kanishkrastogi46@gmail.com 🔥
